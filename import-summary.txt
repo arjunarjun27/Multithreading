@@ -1,0 +1,121 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .idea\
+* .idea\Multithreading.iml
+* .idea\compiler.xml
+* .idea\copyright\
+* .idea\copyright\profiles_settings.xml
+* .idea\misc.xml
+* .idea\modules.xml
+* .idea\workspace.xml
+* Multithreading\
+* Multithreading\.idea\
+* Multithreading\.idea\compiler.xml
+* Multithreading\.idea\copyright\
+* Multithreading\.idea\copyright\profiles_settings.xml
+* Multithreading\.idea\misc.xml
+* Multithreading\.idea\workspace.xml
+* Multithreading\app\
+* Multithreading\app\build.gradle
+* Multithreading\app\src\
+* Multithreading\app\src\main\
+* Multithreading\app\src\main\AndroidManifest.xml
+* Multithreading\app\src\main\java\
+* Multithreading\app\src\main\java\com\
+* Multithreading\app\src\main\java\com\coreservlets\
+* Multithreading\app\src\main\java\com\coreservlets\multithreading\
+* Multithreading\app\src\main\java\com\coreservlets\multithreading\ActivityUtils.java
+* Multithreading\app\src\main\java\com\coreservlets\multithreading\BitmapUtils.java
+* Multithreading\app\src\main\java\com\coreservlets\multithreading\ImageDownloader1Activity.java
+* Multithreading\app\src\main\java\com\coreservlets\multithreading\ImageDownloader2Activity.java
+* Multithreading\app\src\main\java\com\coreservlets\multithreading\MultithreadingInitialActivity.java
+* Multithreading\app\src\main\java\com\coreservlets\multithreading\RaceConditionsActivity.java
+* Multithreading\app\src\main\java\com\coreservlets\multithreading\SeparateCounter.java
+* Multithreading\app\src\main\java\com\coreservlets\multithreading\SimpleImageDownloaderActivity.java
+* Multithreading\app\src\main\java\com\coreservlets\multithreading\SocketUtils.java
+* Multithreading\app\src\main\java\com\coreservlets\multithreading\StatusLineParser.java
+* Multithreading\app\src\main\java\com\coreservlets\multithreading\ThreadSafeActivity.java
+* Multithreading\app\src\main\java\com\coreservlets\multithreading\ThreadUtils.java
+* Multithreading\app\src\main\java\com\coreservlets\multithreading\ThreadingBasicsActivity.java
+* Multithreading\app\src\main\java\com\coreservlets\multithreading\UrlChecker.java
+* Multithreading\app\src\main\java\com\coreservlets\multithreading\UrlCheckerActivity.java
+* Multithreading\app\src\main\java\com\coreservlets\multithreading\UrlCheckerResult.java
+* Multithreading\app\src\main\res\
+* Multithreading\app\src\main\res\drawable-hdpi\
+* Multithreading\app\src\main\res\drawable-hdpi\emo_im_crying.png
+* Multithreading\app\src\main\res\drawable-hdpi\emo_im_happy.png
+* Multithreading\app\src\main\res\drawable-hdpi\emo_im_sad.png
+* Multithreading\app\src\main\res\drawable-hdpi\emo_im_wtf.png
+* Multithreading\app\src\main\res\drawable-hdpi\icon.png
+* Multithreading\app\src\main\res\drawable-ldpi\
+* Multithreading\app\src\main\res\drawable-ldpi\icon.png
+* Multithreading\app\src\main\res\drawable-mdpi\
+* Multithreading\app\src\main\res\drawable-mdpi\emo_im_crying.png
+* Multithreading\app\src\main\res\drawable-mdpi\emo_im_happy.png
+* Multithreading\app\src\main\res\drawable-mdpi\emo_im_sad.png
+* Multithreading\app\src\main\res\drawable-mdpi\emo_im_wtf.png
+* Multithreading\app\src\main\res\drawable-mdpi\icon.png
+* Multithreading\app\src\main\res\layout\
+* Multithreading\app\src\main\res\layout\image_downloader.xml
+* Multithreading\app\src\main\res\layout\main.xml
+* Multithreading\app\src\main\res\layout\race_conditions.xml
+* Multithreading\app\src\main\res\layout\simple_image_downloader.xml
+* Multithreading\app\src\main\res\layout\threading_basics.xml
+* Multithreading\app\src\main\res\layout\url_checker.xml
+* Multithreading\app\src\main\res\values-land\
+* Multithreading\app\src\main\res\values-land\dimens.xml
+* Multithreading\app\src\main\res\values\
+* Multithreading\app\src\main\res\values\colors.xml
+* Multithreading\app\src\main\res\values\dimens.xml
+* Multithreading\app\src\main\res\values\strings.xml
+* Multithreading\build.gradle
+* Multithreading\gradle\
+* Multithreading\gradle\wrapper\
+* Multithreading\gradle\wrapper\gradle-wrapper.jar
+* Multithreading\gradle\wrapper\gradle-wrapper.properties
+* Multithreading\gradlew
+* Multithreading\gradlew.bat
+* Multithreading\local.properties
+* Multithreading\settings.gradle
+* multi\
+* multi\.idea\
+* multi\.idea\compiler.xml
+* multi\.idea\copyright\
+* multi\.idea\copyright\profiles_settings.xml
+* multi\.idea\misc.xml
+* multi\.idea\modules.xml
+* multi\.idea\workspace.xml
+* multi\multi.iml
+* proguard.cfg
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

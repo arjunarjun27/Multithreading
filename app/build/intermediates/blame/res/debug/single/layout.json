@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\arjun_mu\\Desktop\\Multithreading\\Multithreading\\app\\build\\intermediates\\res\\merged\\debug\\layout\\url_checker.xml",
+        "source": "C:\\Users\\arjun_mu\\Desktop\\Multithreading\\Multithreading\\app\\src\\main\\res\\layout\\url_checker.xml"
+    },
+    {
+        "merged": "C:\\Users\\arjun_mu\\Desktop\\Multithreading\\Multithreading\\app\\build\\intermediates\\res\\merged\\debug\\layout\\threading_basics.xml",
+        "source": "C:\\Users\\arjun_mu\\Desktop\\Multithreading\\Multithreading\\app\\src\\main\\res\\layout\\threading_basics.xml"
+    },
+    {
+        "merged": "C:\\Users\\arjun_mu\\Desktop\\Multithreading\\Multithreading\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\arjun_mu\\Desktop\\Multithreading\\Multithreading\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\arjun_mu\\Desktop\\Multithreading\\Multithreading\\app\\build\\intermediates\\res\\merged\\debug\\layout\\simple_image_downloader.xml",
+        "source": "C:\\Users\\arjun_mu\\Desktop\\Multithreading\\Multithreading\\app\\src\\main\\res\\layout\\simple_image_downloader.xml"
+    },
+    {
+        "merged": "C:\\Users\\arjun_mu\\Desktop\\Multithreading\\Multithreading\\app\\build\\intermediates\\res\\merged\\debug\\layout\\race_conditions.xml",
+        "source": "C:\\Users\\arjun_mu\\Desktop\\Multithreading\\Multithreading\\app\\src\\main\\res\\layout\\race_conditions.xml"
+    },
+    {
+        "merged": "C:\\Users\\arjun_mu\\Desktop\\Multithreading\\Multithreading\\app\\build\\intermediates\\res\\merged\\debug\\layout\\image_downloader.xml",
+        "source": "C:\\Users\\arjun_mu\\Desktop\\Multithreading\\Multithreading\\app\\src\\main\\res\\layout\\image_downloader.xml"
+    }
+]
